@@ -5,6 +5,7 @@ Proyecto de consola Java para la gestión de inventario de productos implementan
 ## Información del Estudiante
 * **Institución:** Universidad Tecnológica de El Salvador (UTEC)
 * **Estudiante:** Geovanny Daniel Barrera Herrera 25-0615-2022
+*  Miguel Angel Cruz Olmedo 27-2723-2025
 * **Lenguaje:** Java 26 / OpenJDK
 * **Gestor de Dependencias:** Maven
 * **Base de Datos:** H2 Database Engine
